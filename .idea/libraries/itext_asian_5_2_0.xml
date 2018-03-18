@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="itext-asian-5.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/itext-asian-5.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/itext-asian-5.2.0.jar!/" recursive="false" />
+  </library>
+</component>
